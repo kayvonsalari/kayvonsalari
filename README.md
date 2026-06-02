@@ -31,4 +31,4 @@ Currently completing advanced Agentic AI Architecture training (Johns Hopkins Un
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayvonsalari-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kayvonsalari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayvonsalari-blue?style=flat&logo=linkedin)](https://linkedin.com/in/salari-kayvon/)
