@@ -12,7 +12,7 @@ Currently completing advanced Agentic AI Architecture training (Johns Hopkins Un
 
 | Project | Domain | Key Technologies |
 |---|---|---|
-| [DualLens Analytics](https://github.com/kayvonsalari/duallens-analytics) | Investment Research | RAG, LangChain, ChromaDB, Yahoo Finance |
+| [AI-Powered Investment Research Platform](https://github.com/kayvonsalari/duallens-analytics) | Investment Research | RAG, LangChain, ChromaDB, Yahoo Finance |
 | [Autonomous Financial Research Analyst](https://github.com/kayvonsalari/financial-research-analyst) | Investment Intelligence | LangGraph, LangChain, Tavily, OpenAI |
 | [Senior Mortgage Underwriting System](https://github.com/kayvonsalari/mortgage-underwriting-agent) | Financial Services | LangGraph, Multi-Agent Orchestration, RAG, ChromaDB |
 | [MS Risk Screening Agent](https://github.com/kayvonsalari/ms-risk-screening-agent) | Clinical Decision Support | Multi-Agent HAI, EHR Simulation, Responsible AI |
@@ -31,4 +31,4 @@ Currently completing advanced Agentic AI Architecture training (Johns Hopkins Un
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayvonsalari-blue?style=flat&logo=linkedin)](https://linkedin.com/in/salari-kayvon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kayvonsalari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salari-kayvon/)
