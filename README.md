@@ -12,6 +12,7 @@ Currently completing advanced Agentic AI Architecture training at Johns Hopkins 
 
 | Project | Domain | Key Technologies |
 |---|---|---|
+| [Aristos Council](https://github.com/kayvonsalari/aristos-council) | Investment Intelligence · Multi-Strategy | LangGraph, Multi-Agent, RAG, Provenance Audit, yfinance |
 | [AI-Powered Investment Research Platform](https://github.com/kayvonsalari/duallens-analytics) | Investment Research | RAG, LangChain, ChromaDB, Yahoo Finance |
 | [Autonomous Financial Research Analyst](https://github.com/kayvonsalari/financial-research-analyst) | Investment Intelligence | LangGraph, LangChain, Tavily, OpenAI |
 | [Senior Mortgage Underwriting System](https://github.com/kayvonsalari/mortgage-underwriting-agent) | Financial Services | LangGraph, Multi-Agent, RAG, ChromaDB, HITL |
