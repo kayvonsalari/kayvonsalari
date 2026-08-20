@@ -4,7 +4,7 @@
 
 25+ years designing and delivering large-scale data platforms and enterprise architecture across European and global organisations — Sky Germany, Lufthansa, Bayer, HP, Deutsche Telekom, Volkswagen, and others. Co-founder of Zeal Hub GmbH, a boutique data and BI consultancy.
 
-Currently completing advanced Agentic AI Architecture training at Johns Hopkins University, building multi-agent systems that solve real enterprise problems.
+Completed the Certificate Program in Agentic AI at Johns Hopkins University (Whiting School of Engineering), and build multi-agent systems that solve real enterprise problems.
 
 ---
 
@@ -13,6 +13,7 @@ Currently completing advanced Agentic AI Architecture training at Johns Hopkins 
 | Project | Domain | Key Technologies |
 |---|---|---|
 | [Aristos Council](https://github.com/kayvonsalari/aristos-council) | Investment Intelligence · Multi-Strategy | LangGraph, Multi-Agent, RAG, Provenance Audit, yfinance |
+| [Tennis Oracle](https://github.com/kayvonsalari/tennis-oracle) | Sports Analytics · Agent Protocol | A2A Protocol, Glicko-2, Multi-Source Feeds, Streamlit |
 | [AI-Powered Investment Research Platform](https://github.com/kayvonsalari/duallens-analytics) | Investment Research | RAG, LangChain, ChromaDB, Yahoo Finance |
 | [Autonomous Financial Research Analyst](https://github.com/kayvonsalari/financial-research-analyst) | Investment Intelligence | LangGraph, LangChain, Tavily, OpenAI |
 | [Senior Mortgage Underwriting System](https://github.com/kayvonsalari/mortgage-underwriting-agent) | Financial Services | LangGraph, Multi-Agent, RAG, ChromaDB, HITL |
