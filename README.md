@@ -23,7 +23,7 @@ Completed the Certificate Program in Agentic AI at Johns Hopkins University (Whi
 | [Healthcare Intelligence Assistant](https://github.com/kayvonsalari/healthcare-intelligence-assistant) | Healthcare · Data Governance | LangGraph, Natural Language-to-SQL, HITL, HIPAA, GDPR |
 | [MucAtlas — Municipal Knowledge Agent](https://github.com/kayvonsalari/mucatlas) | Public Sector · Knowledge Management | Multi-Agent, RAG, Confidential Computing, MCP |
 | [Warehouse Robot Navigation](https://github.com/kayvonsalari/warehouse-robot-navigation) | Logistics & Robotics | Reinforcement Learning, PPO, OpenAI Gym |
-
+| [Governed Document-to-Decision Agent on Databricks](https://github.com/kayvonsalari/databricks-underwriting-agent) | Financial Services · Platform Engineering | Databricks, Unity Catalog, MLflow Tracing, Llama 4, Deterministic Rules, HITL |
 ---
 
 ## Background
